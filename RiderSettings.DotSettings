@@ -1,0 +1,9 @@
+<wpf:ResourceDictionary xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+  <s:String x:Key="CSharpNamingRule">PrivateInstanceFields: _camelCase</s:String>
+  <s:String x:Key="CSharpBraceStyle">ALWAYS_ADD</s:String>
+  <s:String x:Key="CSharpVarUsage">DISALLOW</s:String>
+  <s:String x:Key="CSharpThisQualifier.Field">ALWAYS</s:String>
+  <s:String x:Key="CSharpThisQualifier.Property">ALWAYS</s:String>
+  <s:String x:Key="CSharpThisQualifier.Method">ALWAYS</s:String>
+  <s:String x:Key="CSharpReadonlyPreference">ENFORCE</s:String>
+</wpf:ResourceDictionary>
